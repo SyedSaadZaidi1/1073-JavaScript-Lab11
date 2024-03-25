@@ -1,0 +1,43 @@
+// STEP 4a: Create i-scream.json file with companyName, headOffice, established, active, topFlavors(name, calories, type, ingredients, image) */
+{
+    "companyName":"IScream Company Inc.",
+    "headOffice": "North Pole",
+    "established" : 2024,
+    "active": true,
+    "topFlavors" : [{
+        "name": "Chocolate Mint",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup","Peppermint Sprinkles","Vanilla Base"],
+        "image" : " https://syedsaadzaidi1.github.io/JS-week11/images/chocolate-mint.svg"
+        
+    }, {
+        "name": "Peach Mango",
+        "calories": 250,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Peach Syrup","Mango Chunks","Vanilla Base"],
+        "image" : " https://syedsaadzaidi1.github.io/JS-week11/images/peach-mango.svg"
+    },
+    {
+        "name": "Strawberry sprinkle",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": ["Strawberry Syrup","Strawberry Chunks","Vanilla Base"],
+        "image" : " https://syedsaadzaidi1.github.io/JS-week11/images/strawberry-sprinkle.svg"
+    },
+    {
+        "name": "Pistachio sprinkle",
+        "calories": 150,
+        "type": "ice-cream",
+        "ingredients": ["mint syrup","sugar balls","Pistachio Base"],
+        "image" : " https://syedsaadzaidi1.github.io/JS-week11/images/ice-cream-xtra1.svg"
+    },
+    {
+        "name": "Banana chocolate",
+        "calories": 250,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup","Chocolate Syrup","Banana Base"],
+        "image" : " https://syedsaadzaidi1.github.io/JS-week11/images/ice-cream-xtra2.svg"
+    }
+]
+}
